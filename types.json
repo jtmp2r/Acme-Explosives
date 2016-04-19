@@ -1,0 +1,59 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Dragon",
+            "description": "Chinese Festival Fireworks"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "USA",
+            "description": "4th of July"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Buildings",
+            "description": "These babies will break down the Taj Mahal"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Bridges",
+            "description": "London Bride is falling down"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Implosion",
+            "description": "Strategic placing of explosive material and timing of its detonation so that a structure collapses on itself in a matter of seconds, minimizing the physical damage to its immediate surroundings."
+        },
+        {
+            "id": 6,
+            "category": 2,
+            "name": "Black",
+            "description": "First known type of gunpowder, is a mixture of potassium nitrate more commonly known as saltpeter, carbon in the form of charcoal, and sulfur with a ratio (by weight) of approximately 15:3:2 respectively."
+        },
+        {
+            "id": 7,
+            "category": 2,
+            "name": "Smokeless",
+            "description": "Developed as a cleaner burning substitute to black powder"
+        },
+        {
+            "id": 8,
+            "category": 2,
+            "name": "Contemporary",
+            "description": "Advanced type of gunpowder that doesn't burn making for infinite use, as long as ammo is available."
+        }
+
+    ]
+}
